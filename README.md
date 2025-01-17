@@ -5,3 +5,5 @@ Product categories, pricing, and inventory levels.
 Customer orders, preferences, and purchase behavior.
 Sales trends, revenue, and other KPIs.
 Delivery metrics like average time, cost, and efficiency.
+![Screenshot 2025-01-17 124007](https://github.com/user-attachments/assets/3d7775d2-3c58-455e-85f0-3a54df7db414)
+[BlinkIT Grocery Data.xlsx](https://github.com/user-attachments/files/18451825/BlinkIT.Grocery.Data.xlsx)
